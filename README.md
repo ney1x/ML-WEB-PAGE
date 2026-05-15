@@ -1,4 +1,4 @@
-# Detector Messi vs. Cristiano 
+# Detector Messi vs Cristiano 
 
 Este proyecto es una aplicación web sencilla que utiliza inteligencia artificial para identificar si una imagen cargada corresponde a **Lionel Messi** ó a **Cristiano Ronaldo**.
 
